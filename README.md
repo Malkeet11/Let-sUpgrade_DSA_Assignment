@@ -1,6 +1,6 @@
-# **Data Structures and Algorithm Essentials FEB 2021 Batch 1**
+# Data Structures and Algorithm Essentials FEB 2021 Batch 1
 
-## **Day 1 : **
+## Day 1 : 
 Data Structure and why it is needed?
 Career Opportunities/packages with this skill
 Algorithm and Selecting the best Algorithm
