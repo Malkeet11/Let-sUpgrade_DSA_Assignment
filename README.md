@@ -2,10 +2,15 @@
 
 ## Day 1 : 
 Data Structure and why it is needed?
+
 Career Opportunities/packages with this skill
+
 Algorithm and Selecting the best Algorithm
+
 Python Basics
+
 Inputs and Outputs in Python
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
