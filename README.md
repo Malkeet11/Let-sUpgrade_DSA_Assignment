@@ -1,5 +1,6 @@
 # Data Structures and Algorithm Essentials FEB 2021 Batch 1
 
+-----------------------------------------------------------------------------------------------------------------------
 ## Day 1 : 
 Data Structure and why it is needed?
 
@@ -36,5 +37,55 @@ y = input('enter another val: ');
 Plus Operator:- 
 
 print( x + y) [+ plus operators concatenates the strings]
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+## DAY 2 :
+Lists and its operations in Python
+
+Time Complexity and Space Complexity
+
+Behaviour of Algorithms with graph
+
+Asymptotic Rotation
+
+-----------------------------------------------------------------------------------------------------------------------
+
+List
+Collection of same or different Datatypes enclosed within [ ]
+List is Mutable
+Slicing
+
+Taking out a part of the list is called Slicing.
+If the index entered is n then the slicing will take place till n-1
+Inclusive of starting index but not of ending index
+There are three things in Slicing- Start index, end index, step value
+Operations on List
+
+Insertion- To add any element to the list.
+Ex- l.insert(3, 12)- Adding element 12 at index 3.
+
+Deletion- To delete an element from the list
+Ex- l.pop(3)- Deleting element from index 3.
+
+ l.remove(30)- Deleting element 30
+
+Time Complexity
+It quantifies the amount of time taken by an algorithm to run as a function of the length of the input.
+
+Space Complexity
+It quantifies the amount of space or memory taken by an algorithm to run as a function of the length of the input.
+
+Asymptotic Notation
+Big O- For the worst scenario
+Big Omega- For the best scenario
+Theta_ For average scenario
+Examples of Time Complexity
+
+Constant
+Linear
+Logarithmic
+Exponential
 
 -----------------------------------------------------------------------------------------------------------------------
